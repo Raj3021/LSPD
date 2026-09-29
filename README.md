@@ -4,13 +4,13 @@
 
 ### <u>Admin</u>:
 
-*Passkey:* krishpatel123
+*Passkey:* rajpatel123
 
 ### <u>User</u>:
 
-*Username:* dev123
+*Username:* raj123  
 <br/>
-*Password:* dev123
+*Password:* raj23
 
 ### <u>Link</u>:
 
